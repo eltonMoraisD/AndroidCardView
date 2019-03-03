@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="todo">TODO</string>
+    <string name="agora_mesmo">agora mesmo</string>
+    <string name="elton_morais">Elton Morais</string>
+    <string name="heheh_a_caminho">#heheh a caminho</string>
+    <string name="button">Button</string>
+    <string name="gostei">gostei</string>
+    <string name="comentar">comentar</string>
+</resources>
